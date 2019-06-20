@@ -1,0 +1,13 @@
+<suite name="groups">
+<group>
+<run>
+<inclue name="Smoke"/>
+</run>
+</group>
+<test name="groupsTest">
+<classes>
+<class name="com.class03.GroupExample" />
+
+</classes>
+</test>
+</suite>
